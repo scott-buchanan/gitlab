@@ -1,2 +1,1 @@
-![Gitlab activity](![image](https://github.com/scott-buchanan/gitlab/assets/7110108/15a71095-7a60-4fe9-ae91-e71e92515013)
-)
+![image](https://github.com/scott-buchanan/gitlab/assets/7110108/f7794ec6-cbcf-4505-a912-3f5919bf9c97)
