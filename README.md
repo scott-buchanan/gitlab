@@ -1,2 +1,1 @@
-# gitlab
-Just a repo to show my gitlab activity
+![Gitlab activity](https://ibb.co/NsMrGpb)
